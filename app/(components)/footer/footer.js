@@ -17,6 +17,7 @@ export default function Footer() {
                         </div>
 
                         <Footer_card
+                            color="text-[#2370C8]"
                             title="Our Links"
                             link1="Home"
                             link2="About Us"
